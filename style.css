@@ -1,0 +1,75 @@
+:root{
+    --color-Africa : coral;
+    --color-South_America : #93441A;
+    --color-North_America : #955149;
+    --color-Antarctic : #80586D;
+    --color-Asia : #430C05;
+    --color-Oceania : #AD956B;
+    --color-Europe : #B67332;
+}
+
+
+
+
+
+<style>
+h1{text-align: center;}
+p{color:#FAF2EA ;}
+section{background:#9F5540;}
+</style>
+<section>
+
+
+
+
+<style>
+<!--Amerique du Sud-->
+.cls-1 {           
+  fill: #93441A;
+}
+.cls-1:hover{           
+  fill: #000000;
+}
+<!--Amerique du Nord-->
+.cls-2{
+  fill:#955149;
+}
+.cls-2:hover{
+  fill:#000000;
+}
+<!--Europe-->
+.cls-3 {
+  fill: #B67332;
+}
+.cls-3:hover{
+  fill: #000000;
+}
+<!--Asie-->
+.cls-4{
+  fill:#430C05;
+}
+.cls-4:hover{
+  fill:#000000;
+}
+<!--Océanie-->
+.cls-5{
+  fill:#AD956B;
+}
+.cls-5:hover{
+  fill:#000000;
+}
+<!--Afrique-->
+.cls-6{
+  fill:coral;
+}
+.cls-6:hover{
+  fill:#000000;
+}
+<!--Antarctique-->
+.cls-7{
+  fill:#80586D;
+}
+.cls-7:hover{
+  fill:#000000;
+}
+</style>
